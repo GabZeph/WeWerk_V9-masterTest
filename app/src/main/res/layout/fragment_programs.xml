@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/ic_programbackgroundedit"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ProgramsFragment">
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/logoConstraintLayout"
+        android:layout_width="match_parent"
+        android:layout_height="91dp"
+        android:layout_marginTop="14dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/weWerkLogoImageView"
+            android:layout_width="match_parent"
+            android:layout_height="114dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_wewerktransparent" />
+    </android.support.constraint.ConstraintLayout>
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/programTabFragment_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/tabProgram_fragment"
+            layout="@layout/fragment_program_tab"></include>
+
+    </android.support.constraint.ConstraintLayout>
+
+</LinearLayout>

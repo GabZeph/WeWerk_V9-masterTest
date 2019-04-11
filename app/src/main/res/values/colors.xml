@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#000000</color>
+    <color name="dark">#313131</color>
+
+    <color name="yellow">#fff5f504</color>
+    <color name="red">#B71C1C</color>
+    <color name="grisPale">#40c4c4c4</color>
+    <color name="grisFonce">#a6a6a6</color>
+    <color name="vertWeWerk">#400a7b74</color>
+</resources>

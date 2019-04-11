@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">WeWerk_V8</string>
+
+    <string name="text_discover">Discover</string>
+    <string name="text_create">Create</string>
+    <string name="text_programs">Programs</string>
+    <string name="text_profile">Profile</string>
+    <string name="movement_name">movement name</string>
+    <string name="username">username</string>
+    <string name="text_fatloss">fat loss</string>
+    <string name="text_cardio">cardio</string>
+    <string name="text_strength">strength</string>
+    <string name="text_hypertrophy">hypertrophy</string>
+    <string name="text_plyometry">plyometry</string>
+    <string name="text_stretching">stretching</string>
+    <string name="text_username">username</string>
+    <string name="text_password">password</string>
+    <string name="text_rememberme">remember me</string>
+    <string name="text_login">login</string>
+    <string name="text_signup">sign up</string>
+    <string name="first_name_nlastname">First Name  LastName</string>
+    <string name="text_followers">Follower</string>
+    <string name="number_following">182</string>
+    <string name="text_following">Following</string>
+    <string name="text_follow">F O L L O W</string>
+    <string name="number_followers">169</string>
+    <string name="text_message">M E S S A G E</string>
+    <string name="text_myworkouts">My Workouts</string>
+    <string name="text_favoriteprograms">Favorite Workouts</string>
+    <string name="number_programs_created">158</string>
+    <string name="create_program">Create program</string>
+    <string name="add_day">+add Day</string>
+    <string name="day_1">Day 1</string>
+    <string name="workout_name">Workout name</string>
+    <string name="add_exercise">+add exercise</string>
+    <string name="create_a_workout_program">CREATE A WORKOUT PROGRAM</string>
+    <string name="followers">Followers</string>
+    <string name="firstname_lastname">FirstName LastName</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_create_exercise">add/create exercise</string>
+    <string name="click_on_camera_to_add_picture">click on camera to add picture</string>
+    <string name="sollicited_muscles">Sollicited muscles :</string>
+    <string name="enter_exercise_name">Enter exercise name</string>
+    <string name="create_an_exercise">CREATE AN EXERCISE</string>
+    <string name="description">Description</string>
+    <string name="program_description">Program description</string>
+    <string name="exercise_description">Exercise description</string>
+
+</resources>
